@@ -1,0 +1,17 @@
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\bin\Debug\AsyncWpfTest.exe.config
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\bin\Debug\AsyncWpfTest.exe
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\bin\Debug\AsyncWpfTest.pdb
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.csprojResolveAssemblyReference.cache
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\App.g.cs
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest_MarkupCompile.cache
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest_MarkupCompile.lref
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\MainWindow.baml
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.g.resources
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.Properties.Resources.resources
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.csproj.GenerateResource.Cache
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.exe
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.pdb
+C:\Users\Lily\MyWpfTest\AsyncSamples\AsyncWpfTest\bin\Debug\AsyncWpfTest.exe.config
+C:\Users\Lily\MyWpfTest\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.exe
+C:\Users\Lily\MyWpfTest\AsyncSamples\AsyncWpfTest\obj\Debug\AsyncWpfTest.pdb

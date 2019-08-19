@@ -1,0 +1,5 @@
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncLib\bin\Debug\AsyncLib.dll
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncLib\bin\Debug\AsyncLib.pdb
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncLib\obj\Debug\AsyncLib.csprojResolveAssemblyReference.cache
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncLib\obj\Debug\AsyncLib.dll
+C:\Users\Lily\Desktop\15_code\Async-vs2015\AsyncSamples\AsyncLib\obj\Debug\AsyncLib.pdb
